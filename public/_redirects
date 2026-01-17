@@ -1,2 +1,3 @@
+/money-habit /money-habit/index.html 200
 /money-habit/* /money-habit/:splat 200
 /* /index.html 200
