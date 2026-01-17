@@ -3,5 +3,16 @@
   "include": [
     "/*"
   ],
-  "exclude": []
+  "exclude": [
+    "/money-habit/*",
+    "/*.js",
+    "/*.css",
+    "/*.ico",
+    "/*.png",
+    "/*.jpg",
+    "/*.svg",
+    "/*.woff",
+    "/*.woff2",
+    "/*.ttf"
+  ]
 }
